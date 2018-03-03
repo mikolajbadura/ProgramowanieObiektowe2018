@@ -1,1 +1,1 @@
-Lista
+Imię, Nazwisko, adres repozytorium
