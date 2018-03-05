@@ -11,3 +11,5 @@ Jakub Wylandowski https://github.com/velvetekk/Bomba_Retribuszyn-420
 Łukasz Fiszer https://github.com/lukaszfiszer96/PO2018 "Łeb MessageX"
 Kamil Bażanow https://github.com/KamilBazanow/PROJEKT "Total Homex 5000 Turbo"
 Marcin Adamczyk https://github.com/230850/ProgramowanieObiektowe2018
+Krzysztof Cichy https://github.com/krzysztof2000/Aleph.2.0
+Grzegorz Dubaniowski https://github.com/GDubaniowski/led-xxx-cube-9000
