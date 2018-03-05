@@ -8,5 +8,5 @@ Paweł Kuźmiński https://github.com/Pawelox/Turbodiodpol
 Grzegorz Zieliński https://github.com/grzesieking10/CATCHTHEBATONIX
 Grzegorz Kulikowski https://github.com/pa221153/PWr2048 
 Jakub Wylandowski https://github.com/velvetekk/Bomba_Retribuszyn-420
-Łukasz Fiszer https://github.com/lukaszfiszer96/PO2018
-Kamil Bażanow https://github.com/KamilBazanow/PROJEKT
+Łukasz Fiszer https://github.com/lukaszfiszer96/PO2018 "Łeb MessageX"
+Kamil Bażanow https://github.com/KamilBazanow/PROJEKT "Total Homex 5000 Turbo"
