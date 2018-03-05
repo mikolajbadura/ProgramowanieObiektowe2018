@@ -7,3 +7,4 @@ Wojciech Dase https://github.com/Pawelox/Turbodiodpol
 Paweł Kuźmiński https://github.com/Pawelox/Turbodiodpol 
 Grzegorz Zieliński https://github.com/grzesieking10/CATCHTHEBATONIX
 Grzegorz Kulikowski https://github.com/pa221153/PWr2048 
+Łukasz Fiszer https://github.com/lukaszfiszer96/PO2018
