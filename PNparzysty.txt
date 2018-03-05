@@ -1,1 +1,2 @@
 Imię, Nazwisko, adres repozytorium
+Katarzyna Kudłacik https://github.com/KaKudlacik/WUNSZ-2-Geneza
