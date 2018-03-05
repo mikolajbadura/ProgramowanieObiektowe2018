@@ -6,3 +6,4 @@ Grzegorz Fedoryka https://github.com/GrzegorzFedoryka/FedorykaTrees
 Wojciech Dase https://github.com/Pawelox/Turbodiodpol 
 Paweł Kuźmiński https://github.com/Pawelox/Turbodiodpol 
 Grzegorz Zieliński https://github.com/grzesieking10/CATCHTHEBATONIX
+Grzegorz Kulikowski https://github.com/pa221153/PWr2048 
