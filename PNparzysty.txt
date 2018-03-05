@@ -1,3 +1,7 @@
 Imię, Nazwisko, adres repozytorium
 Katarzyna Kudłacik https://github.com/KaKudlacik/WUNSZ-2-Geneza
 Marcin Prządka https://github.com/MarcinPrzadka/CubeX2000
+Michał Pływacz: https://github.com/mplywacz/MendelejeX
+Grzegorz Fedoryka https://github.com/GrzegorzFedoryka/FedorykaTrees 
+Wojciech Dase https://github.com/Pawelox/Turbodiodpol 
+Paweł Kuźmiński https://github.com/Pawelox/Turbodiodpol 
