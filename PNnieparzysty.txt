@@ -1,1 +1,2 @@
 Imię, Nazwisko, adres repozytorium
+Michał Moczulski https://github.com/misiek21/MichalMoczulski
