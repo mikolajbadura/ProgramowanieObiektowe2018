@@ -1,4 +1,5 @@
 Imię, Nazwisko, adres repozytorium
+Maciej DANICKI https://github.com/Mdanick/Ksiegarnia-/
 Konrad Gaworowski, https://github.com/KonradGaworowski/231014.git
 Adam Śliwiński, https://github.com/pa204055/AdamSliwinski
 Przemysław Drzewicz, https://github.com/przemyslawdrzewicz/Pacman2033/
