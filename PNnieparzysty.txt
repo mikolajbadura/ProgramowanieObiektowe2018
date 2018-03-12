@@ -1,1 +1,2 @@
 Imię, Nazwisko, adres repozytorium
+Wojciech Adamski, https://github.com/WojciechAdamski/PO_204086.git
