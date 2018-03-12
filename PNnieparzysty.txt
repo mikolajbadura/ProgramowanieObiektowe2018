@@ -1,2 +1,3 @@
 Imię, Nazwisko, adres repozytorium
 Tomasz Grzesik https://github.com/TomaszGrzesik
+Jakub, Aniulis, https://github.com/Ziemnianin/CyfrowyPoeta2000JA
