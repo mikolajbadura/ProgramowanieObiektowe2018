@@ -1,1 +1,2 @@
 Imię, Nazwisko, adres repozytorium
+Adam Śliwiński, https://github.com/pa204055/AdamSliwinski
