@@ -1,4 +1,5 @@
 Imię, Nazwisko, adres repozytorium
+Szymon Rzążewski https://github.com/Szrzazewski/CyfrowyPoeta2000SR
 Maciej DANICKI https://github.com/Mdanick/Ksiegarnia-/
 Konrad Gaworowski, https://github.com/KonradGaworowski/231014.git
 Adam Śliwiński, https://github.com/pa204055/AdamSliwinski
