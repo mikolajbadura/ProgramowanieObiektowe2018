@@ -1,1 +1,2 @@
 Imię, Nazwisko, adres repozytorium
+Tomasz Grzesik https://github.com/TomaszGrzesik
