@@ -1,1 +1,2 @@
 Imię, Nazwisko, adres repozytorium
+Szymon Rzążewski https://github.com/Szrzazewski/CyfrowyPoeta2000SR
