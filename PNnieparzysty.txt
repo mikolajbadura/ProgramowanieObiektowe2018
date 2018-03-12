@@ -1,1 +1,2 @@
 Imię, Nazwisko, adres repozytorium
+Konrad Gaworowski, https://github.com/KonradGaworowski/231014.git
