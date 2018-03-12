@@ -1,1 +1,2 @@
 Imię, Nazwisko, adres repozytorium
+Jakub, Aniulis, https://github.com/Ziemnianin/CyfrowyPoeta2000JA
