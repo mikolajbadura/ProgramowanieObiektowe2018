@@ -1,2 +1,4 @@
 Imię, Nazwisko, adres repozytorium
 Wojciech Adamski, https://github.com/WojciechAdamski/PO_204086.git
+Tomasz Grzesik https://github.com/TomaszGrzesik
+Jakub, Aniulis, https://github.com/Ziemnianin/CyfrowyPoeta2000JA
