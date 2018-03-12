@@ -1,2 +1,8 @@
 Imię, Nazwisko, adres repozytorium
 Konrad Gaworowski, https://github.com/KonradGaworowski/231014.git
+Adam Śliwiński, https://github.com/pa204055/AdamSliwinski
+Przemysław Drzewicz, https://github.com/przemyslawdrzewicz/Pacman2033/
+Michał Moczulski https://github.com/misiek21/MichalMoczulski
+Wojciech Adamski, https://github.com/WojciechAdamski/PO_204086.git
+Tomasz Grzesik https://github.com/TomaszGrzesik
+Jakub, Aniulis, https://github.com/Ziemnianin/CyfrowyPoeta2000JA
